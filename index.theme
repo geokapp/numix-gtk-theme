@@ -5,6 +5,5 @@ Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Numix
-MetacityTheme=Numix
+GtkTheme=Numix-Blue
 ButtonLayout=:minimize,maximize,close
